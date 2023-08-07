@@ -1,0 +1,15 @@
+C:\Sudhir\DotNet\DesignPatterns\PrototypePattern\PrototypePatternApp\bin\Debug\net7.0\PrototypePatternApp.exe
+C:\Sudhir\DotNet\DesignPatterns\PrototypePattern\PrototypePatternApp\bin\Debug\net7.0\PrototypePatternApp.deps.json
+C:\Sudhir\DotNet\DesignPatterns\PrototypePattern\PrototypePatternApp\bin\Debug\net7.0\PrototypePatternApp.runtimeconfig.json
+C:\Sudhir\DotNet\DesignPatterns\PrototypePattern\PrototypePatternApp\bin\Debug\net7.0\PrototypePatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\PrototypePattern\PrototypePatternApp\bin\Debug\net7.0\PrototypePatternApp.pdb
+C:\Sudhir\DotNet\DesignPatterns\PrototypePattern\PrototypePatternApp\obj\Debug\net7.0\PrototypePatternApp.csproj.AssemblyReference.cache
+C:\Sudhir\DotNet\DesignPatterns\PrototypePattern\PrototypePatternApp\obj\Debug\net7.0\PrototypePatternApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sudhir\DotNet\DesignPatterns\PrototypePattern\PrototypePatternApp\obj\Debug\net7.0\PrototypePatternApp.AssemblyInfoInputs.cache
+C:\Sudhir\DotNet\DesignPatterns\PrototypePattern\PrototypePatternApp\obj\Debug\net7.0\PrototypePatternApp.AssemblyInfo.cs
+C:\Sudhir\DotNet\DesignPatterns\PrototypePattern\PrototypePatternApp\obj\Debug\net7.0\PrototypePatternApp.csproj.CoreCompileInputs.cache
+C:\Sudhir\DotNet\DesignPatterns\PrototypePattern\PrototypePatternApp\obj\Debug\net7.0\PrototypePatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\PrototypePattern\PrototypePatternApp\obj\Debug\net7.0\refint\PrototypePatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\PrototypePattern\PrototypePatternApp\obj\Debug\net7.0\PrototypePatternApp.pdb
+C:\Sudhir\DotNet\DesignPatterns\PrototypePattern\PrototypePatternApp\obj\Debug\net7.0\PrototypePatternApp.genruntimeconfig.cache
+C:\Sudhir\DotNet\DesignPatterns\PrototypePattern\PrototypePatternApp\obj\Debug\net7.0\ref\PrototypePatternApp.dll
